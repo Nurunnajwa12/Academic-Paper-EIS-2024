@@ -9,6 +9,6 @@
 | NUR SHUHADA SAFIAH BINTI AYOB        |A21EC0114    |
 
 ### 📂 Folder content:
-* [💻 Assignment 1 Academic Paper](Group 18/Group 18 Zachman.pdf)
+* [💻 Assignment 1 Academic Paper]()
 * [💻 Assignment 1  Slide Presentation]()
 
