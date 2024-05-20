@@ -10,5 +10,5 @@
 
 ### 📂 Folder content:
 * [💻 Assignment 1 Academic Paper](https://github.com/Nurunnajwa12/Academic-Paper-EIS-2024/blob/patch-1/Group%2018/Group%2018%20Zachman.pdf)
-* [💻 Assignment 1  Slide Presentation]()
+* [💻 Assignment 1  Slide Presentation](https://github.com/Nurunnajwa12/Academic-Paper-EIS-2024/blob/patch-1/Group%2018/Group%2018-%20Enterprise%20System%20Architetcure%20Zachman%20(3).pdf)
 
